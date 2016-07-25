@@ -12,7 +12,13 @@
                 "/intel/psutil/load/load15": {},
                 "/intel/psutil/vm/available": {},
                 "/intel/psutil/vm/free": {},
-                "/intel/psutil/vm/used": {}
+                "/intel/psutil/vm/used": {},
+                "/intel/psutil/vm/used_percent": {},
+                "/intel/psutil/net/all/bytes_sent": {},
+                "/intel/psutil/net/all/errin": {},
+                "/intel/psutil/net/all/errout": {},
+                "/intel/psutil/net/all/dropout": {},
+                "/intel/psutil/net/all/packets_recv": {}
             },
             "config": {
                 "/intel/mock": {
